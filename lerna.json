@@ -1,0 +1,14 @@
+{
+  "npmClient": "npm",
+  "packages": [
+    "packages/ui",
+    "packages/core",
+    "packages/scaffold",
+    "packages/polyfills",
+    "packages/wagmi",
+    "apps/*",
+    "examples/*"
+  ],
+  "version": "3.0.0-beta.2",
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json"
+}
